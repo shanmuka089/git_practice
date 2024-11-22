@@ -10,11 +10,3 @@ git config --global user.name "Maheshchinnaboiona"
 git remote add origin https://github.com/Maheshchinnaboina/Gitdemo-project.git  
 
 git push -u origin master
-
-git clone https://github.com/Maheshchinnaboina/Gitdemo-project.git 
-
-git branch
-
-git branch branch_name
-
-git checkout branch_name
