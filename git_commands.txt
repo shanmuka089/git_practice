@@ -1,0 +1,12 @@
+git init
+git status
+git add -A
+git commit -m "message"
+
+git config --global user.email "maheshc042@gmail.com"
+
+git config --global user.name "Maheshchinnaboiona"
+
+git remote add origin https://github.com/Maheshchinnaboina/Gitdemo-project.git  
+
+git push -u origin master
